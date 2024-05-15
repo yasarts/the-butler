@@ -18,4 +18,6 @@ draft: false
 
 The film was released in Japan on July 12, 1997, and in the United States on October 29, 1999. It was a critical and commercial [blockbuster](https://en.m.wikipedia.org/wiki/Blockbuster_(entertainment)), becoming the highest-grossing film in Japan of 1997, and also held Japan's box office record for domestic films until 2001's *[Spirited Away](https://en.m.wikipedia.org/wiki/Spirited_Away)*, another Miyazaki film. It was [dubbed](https://en.m.wikipedia.org/wiki/Dubbing_(filmmaking)) into English and distributed in North America by [Miramax](https://en.m.wikipedia.org/wiki/Miramax), and despite a poor box office performance there, it sold well on DVD and video, greatly increasing Ghibli's popularity and influence outside Japan.
 
+Ici on doit faire un test.
+
 > Source: <https://en.m.wikipedia.org/wiki/Princess_Mononoke>
